@@ -142,4 +142,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * See Aryan Jabbari's solution here: [source code](https://github.com/BooG690/etch-a-sketch.git) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/BooG690/etch-a-sketch/blob/master/index.html).
 * See Kevin Mulhern's solution here: [source code] (https://github.com/KevinMulhern/etch_a_sketch) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/KevinMulhern/etch_a_sketch/blob/master/index.html)
 * See Tommy Rodriguez's solution here: [Source Code](https://github.com/trodrigu/odinproject/tree/master/jquery/etch-a-sketch) or [view it in the browser here](http://htmlpreview.github.io/?https://github.com/trodrigu/odinproject/blob/master/jquery/etch-a-sketch/index.html)
+* See Kian Moretz's solution here: [Source Code](https://github.com/meecoder/Etch-Sketch) or [view it in the browser here](http://98.141.2.215:16700/etchsketch/)
 * *Add the link to your solution above this line (do not remove this line)*
